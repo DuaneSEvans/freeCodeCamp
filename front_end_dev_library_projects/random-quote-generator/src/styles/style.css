@@ -1,0 +1,24 @@
+#quote-box {
+  color: white;
+}
+
+body {
+  background-image: url("https://iso.500px.com/wp-content/uploads/2016/05/stock-photo-150981579.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.author {
+  font-style: italic;
+}
+
+.button {
+  padding-top: 2rem;
+}
+
+#quote-container {
+  min-height: 28rem;
+  background-color: transparent;
+}
+/*# sourceMappingURL=style.css.map */
