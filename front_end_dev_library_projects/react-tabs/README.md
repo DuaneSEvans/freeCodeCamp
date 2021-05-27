@@ -1,3 +1,3 @@
-#### IN ACTION
+### John Smilga's react tutorial
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+my solution: https://react-proj-6-tabs.netlify.app/
