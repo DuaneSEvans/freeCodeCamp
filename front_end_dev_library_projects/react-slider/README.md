@@ -1,5 +1,3 @@
-# react-projects-7-slider
+### John Smilga's react tutorial
 
-#### IN ACTION
-
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+my solution: https://react-proj-7-slider.netlify.app/
