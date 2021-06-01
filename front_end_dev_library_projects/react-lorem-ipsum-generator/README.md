@@ -1,0 +1,1 @@
+from John Smilga's react tutorial. My solution. 
